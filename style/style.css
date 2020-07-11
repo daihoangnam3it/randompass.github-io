@@ -16,7 +16,7 @@ body{
     width: 650px;
     height: 100vh;
 
-    background-image: url('/img/bg.JPG');
+    background-image: url('img/bg.JPG');
     background-size: cover;
 
     margin: 0 auto;
